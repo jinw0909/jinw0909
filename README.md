@@ -50,7 +50,7 @@
 
 ## 포트폴리오
 [포트폴리오 링크](https://github.com/jinw0909/PCM/blob/master/portfolio.pdf)  
-[자소서 링크](https://github.com/jinw0909/jinw0909/files/7457155/_.pdf)
+[자소서 링크](https://github.com/jinw0909/PCM/blob/aws/resume.pdf)
 
 
 
