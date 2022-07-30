@@ -1,6 +1,6 @@
 <!--
 ## 기술스택
--->
+
 <div>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
@@ -55,7 +55,7 @@
 [자소서 링크](https://github.com/jinw0909/PCM/blob/aws/resume.pdf)
 
 
-
+-->
 
 
 
